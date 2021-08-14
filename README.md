@@ -1,5 +1,5 @@
 # indovina
-###Little italy terminal game
+Little italy terminal game
 ## Install
 ```bash
 git clone https://github.com/holovin777/indovina.git
